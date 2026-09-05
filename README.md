@@ -1,1 +1,6 @@
 # ParcialSabado
+
+# ParcialSabado
+
+## Chatbot
+El sistema incluye un chatbot para mejorar la comunicación.
